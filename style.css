@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #222;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#game-container {
+    margin-top: 50px;
+}
+
+#slot {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    margin: 20px 0;
+}
+
+.reel {
+    width: 80px;
+    height: 80px;
+    margin: 0 10px;
+    background: #333;
+    line-height: 80px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #fff;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
