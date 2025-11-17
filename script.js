@@ -1,5 +1,5 @@
 let balance = 100;
-let luck = 50; // 1-100, can be changed
+let luck = 100; // 1-100, can be changed
 
 document.getElementById("spin-btn").addEventListener("click", spin);
 
